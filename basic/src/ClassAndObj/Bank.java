@@ -7,7 +7,7 @@ public class Bank extends CustDet{
 		}
 		
 	
-	public static void main(String[] args) {mm
+	public static void main(String[] args) {nklj
 	
 		Bank obj= new Bank();
 		obj.name();
