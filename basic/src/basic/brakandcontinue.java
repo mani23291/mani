@@ -1,6 +1,6 @@
 package basic;
 
-public class brakandcontinue {
+public class brakandcontinueww {
      public static void main(String[] args) {
 		for(int i=2;i<=10;i++) {   
 			if(i%2==0) {
